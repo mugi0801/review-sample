@@ -15,7 +15,7 @@ class DirectoryLister:
         """_summary_
 
         Returns:
-            _type_: _description_
+            str: _description_
         """
         try:
             # 指定されたディレクトリ内の一覧を取得
